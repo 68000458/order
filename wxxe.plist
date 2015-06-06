@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://wxxe.iplink.com.cn/apps/wxxeorder.ipa</string>
+					<string>http://www.cqwxkj.cn/app/wxxeorder.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://wxxe.iplink.com.cn/apps/wxxe.png</string>
+					<string>http://www.cqwxkj.cn/app/wxxe.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://wxxe.iplink.com.cn/apps/wxxe.png</string>
+					<string>http://www.cqwxkj.cn/app/wxxe.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>五心药小二app</string>
+				<string>五心药小二</string>
 			</dict>
 		</dict>
 	</array>
